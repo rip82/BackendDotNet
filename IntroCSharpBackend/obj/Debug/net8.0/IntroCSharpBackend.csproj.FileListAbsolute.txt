@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\IntroCSharpBackend\IntroCSharpBackend\bin\Debug\net8.0\IntroCSharpBackend.exe
+C:\Users\Usuario\source\repos\IntroCSharpBackend\IntroCSharpBackend\bin\Debug\net8.0\IntroCSharpBackend.deps.json
+C:\Users\Usuario\source\repos\IntroCSharpBackend\IntroCSharpBackend\bin\Debug\net8.0\IntroCSharpBackend.runtimeconfig.json
+C:\Users\Usuario\source\repos\IntroCSharpBackend\IntroCSharpBackend\bin\Debug\net8.0\IntroCSharpBackend.dll
+C:\Users\Usuario\source\repos\IntroCSharpBackend\IntroCSharpBackend\bin\Debug\net8.0\IntroCSharpBackend.pdb
+C:\Users\Usuario\source\repos\IntroCSharpBackend\IntroCSharpBackend\obj\Debug\net8.0\IntroCSharpBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\IntroCSharpBackend\IntroCSharpBackend\obj\Debug\net8.0\IntroCSharpBackend.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\IntroCSharpBackend\IntroCSharpBackend\obj\Debug\net8.0\IntroCSharpBackend.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\IntroCSharpBackend\IntroCSharpBackend\obj\Debug\net8.0\IntroCSharpBackend.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\IntroCSharpBackend\IntroCSharpBackend\obj\Debug\net8.0\IntroCSharpBackend.dll
+C:\Users\Usuario\source\repos\IntroCSharpBackend\IntroCSharpBackend\obj\Debug\net8.0\refint\IntroCSharpBackend.dll
+C:\Users\Usuario\source\repos\IntroCSharpBackend\IntroCSharpBackend\obj\Debug\net8.0\IntroCSharpBackend.pdb
+C:\Users\Usuario\source\repos\IntroCSharpBackend\IntroCSharpBackend\obj\Debug\net8.0\IntroCSharpBackend.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\IntroCSharpBackend\IntroCSharpBackend\obj\Debug\net8.0\ref\IntroCSharpBackend.dll
